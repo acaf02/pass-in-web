@@ -4,8 +4,6 @@ Este é o projeto de uma aplicação front-end em React desenvolvida durante o e
 
 ## Funcionalidades Principais
 
-- **Cadastro de Participantes:** Possibilidade de adicionar novos participantes, incluindo informações como nome e e-mail.
-
 - **Visualização de Participantes:** Lista de todos os participantes cadastrados, com opções de filtragem.
 
 - **API de Back-end utilizada:** https://github.com/rocketseat-education/nlw-unite-nodejs.git
@@ -17,7 +15,6 @@ This is the project of a React front-end application developed during the Next L
 
 ## Key Features
 
-- **Participant Registration:** Ability to add new participants, including information such as name and email.
 
 - **Participant Viewing:** List of all registered participants, with filtering options to facilitate navigation.
 
