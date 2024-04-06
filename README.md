@@ -8,7 +8,7 @@ Este é o projeto de uma aplicação front-end em React desenvolvida durante o e
 
 - **Visualização de Participantes:** Lista de todos os participantes cadastrados, com opções de filtragem.
 
-- **API de Backend utilizada:** https://github.com/rocketseat-education/nlw-unite-nodejs.git
+- **API de Back-end utilizada:** https://github.com/rocketseat-education/nlw-unite-nodejs.git
 ---
 
 # NLW Unite - Event Organizer Dashboard
@@ -21,5 +21,5 @@ This is the project of a React front-end application developed during the Next L
 
 - **Participant Viewing:** List of all registered participants, with filtering options to facilitate navigation.
 
-**Backend API used:** https://github.com/rocketseat-education/nlw-unite-nodejs.git
+**Back-end API used:** https://github.com/rocketseat-education/nlw-unite-nodejs.git
 
