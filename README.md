@@ -4,12 +4,11 @@ Este é o projeto de uma aplicação front-end em React desenvolvida durante o e
 
 ## Funcionalidades Principais
 
-- **Cadastro de Participantes:** Possibilidade de adicionar novos participantes, incluindo informações como nome, e-mail, idade, entre outros dados relevantes.
+- **Cadastro de Participantes:** Possibilidade de adicionar novos participantes, incluindo informações como nome e e-mail.
 
-- **Visualização de Participantes:** Lista de todos os participantes cadastrados, com opções de filtragem e ordenação para facilitar a navegação.
+- **Visualização de Participantes:** Lista de todos os participantes cadastrados, com opções de filtragem.
 
-- **Edição e Remoção de Participantes:** Capacidade de editar informações de participantes existentes ou remover participantes da lista conforme necessário.
-
+- **API de Backend utilizada:** https://github.com/rocketseat-education/nlw-unite-nodejs.git
 ---
 
 # NLW Unite - Event Organizer Dashboard
@@ -18,9 +17,9 @@ This is the project of a React front-end application developed during the Next L
 
 ## Key Features
 
-- **Participant Registration:** Ability to add new participants, including information such as name, email, age, among other relevant data.
+- **Participant Registration:** Ability to add new participants, including information such as name and email.
 
-- **Participant Viewing:** List of all registered participants, with filtering and sorting options to facilitate navigation.
+- **Participant Viewing:** List of all registered participants, with filtering options to facilitate navigation.
 
-- **Editing and Removing Participants:** Ability to edit information of existing participants or remove participants from the list as needed.
+**Backend API used:** https://github.com/rocketseat-education/nlw-unite-nodejs.git
 
